@@ -8,7 +8,7 @@ Libraries used : [Jfoenix] (9.0.9) , [AnimateFX] (1.2.1), [image-comparison] (3.
 
    [here]: <https://github.com/ladiesman6969/desktop-image-comparison/blob/master/out/artifacts/desktop_image_comparison_jar/desktop-image-comparison.jar>
    [image-comparison]: <https://github.com/romankh3/image-comparison>
-   [romankh3]: <https://github.com/romankh3/image-comparison>
+   [romankh3]: <https://github.com/romankh3/>
    [library]: <https://github.com/romankh3/image-comparison>
    [Liberica JDK 11]: <https://bell-sw.com/pages/java-11.0.3/>
    [Roboto-Regular]: <https://github.com/ladiesman6969/desktop-image-comparison/raw/master/src/fonts/Roboto-Regular.ttf>
