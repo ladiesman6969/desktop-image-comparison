@@ -1,7 +1,7 @@
 # desktop-image-comparison
 This is a front end implementaion of [romankh3]'s image-compression [library], built with JavaFX.
 ## Download the prebuilt jar from [here]!
-**Note : The prebuilt jar was built with [Liberica JDK 11]. The prebuilt jar wont run on JDK version < 11**  
+**Note : The prebuilt jar was built with [Liberica JDK 11]. This jar wont run on JDK version < 11**
 **This program requires Roboto Regular font to work correctly. Download [Roboto-Regular]**
 
 Libraries used : [Jfoenix] (9.0.9) , [AnimateFX] (1.2.1), [image-comparison] (3.1.1)
