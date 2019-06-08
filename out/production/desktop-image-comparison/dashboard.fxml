@@ -22,7 +22,15 @@
                <font>
                   <Font name="Roboto Regular" size="30.0" />
                </font></Label>
-            <JFXButton layoutX="1529.0" layoutY="24.0" onAction="#infoButtonClicked" />
+            <JFXButton buttonType="RAISED" layoutX="1529.0" layoutY="17.0" onAction="#infoButtonClicked" text=" " AnchorPane.rightAnchor="29.0" AnchorPane.topAnchor="17.0">
+               <graphic>
+                  <ImageView fitHeight="29.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons/baseline_info_white_18dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </JFXButton>
          </children>
          <styleClass>
             <String fx:value="appBar" />
