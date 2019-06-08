@@ -14,7 +14,6 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
-import javafx.scene.layout.Region;
 import javafx.scene.layout.VBox;
 import javafx.stage.DirectoryChooser;
 import javafx.stage.FileChooser;
@@ -25,7 +24,6 @@ import java.io.File;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-import static javafx.scene.layout.Region.USE_PREF_SIZE;
 
 public class dashboardController implements Initializable {
 
