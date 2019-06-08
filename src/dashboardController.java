@@ -481,8 +481,8 @@ public class dashboardController implements Initializable {
         infoAlert.getDialogPane().setMinHeight(275);
         infoAlert.setTitle("About");
         infoAlert.setHeaderText("About");
-        infoAlert.setContentText("Made by ladiesman6969 : github.com/ladiesman6969\n" +
-                "Based on the library 'image-comparison' by Роман Бескровный : github.com/romankh3\n\n" +
+        infoAlert.setContentText("Made by Debayan Sutradhar : github.com/ladiesman6969\n" +
+                "Based on the library 'image-comparison' by Roman Beskrovny : github.com/romankh3\n\n" +
                 "Source Code:\n" +
                 "This Example : https://github.com/ladiesman6969/desktop-image-compression\n" +
                 "Original Library : https://github.com/romankh3/image-comparison\n\n" +

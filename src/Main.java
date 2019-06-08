@@ -9,7 +9,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("dashboard.fxml"));
-        primaryStage.setTitle("Image Comparison - For more info go to github.com/ladiesman6969/desktop-image-comparison");
+        primaryStage.setTitle("Image Comparison - By Роман Бескровный, देबयान सूत्रधार");
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
         mainStage = primaryStage;
